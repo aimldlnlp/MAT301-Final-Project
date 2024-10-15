@@ -12,20 +12,7 @@ This project focuses on developing a Waste Classification Robot that utilizes th
 Images were resized to 640x640 pixels and underwent various augmentation techniques (e.g., rotation, flipping) to enhance model robustness. The dataset was split into training, validation, and testing sets for effective training.
 
 ## Model Development
-We implemented YOLOv8 for object detection using Google Colaboratory, adjusting hyperparameters for optimal performance. The model was trained for 100 epochs, achieving a high mean average precision (mAP) of 99.4% with 100% precision.
+We implemented YOLOv8 for object detection using Google Colaboratory, adjusting hyperparameters for optimal performance.
 
-## Results
-The YOLOv8 model demonstrated excellent performance, achieving:
-- **Precision:** 100%
-- **Recall:** 99.6%
-- **mAP:** 99.4%
-
-## Conclusion
-The project successfully illustrates the capability of computer vision, particularly YOLOv8, in accurately identifying and classifying waste. This technology has significant potential to enhance waste management systems, contributing to environmental sustainability.
-
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgments
-Thanks to the KRTMI ASTRO_24 team for their collaboration and support in this endeavor.
-
+## Note on Code Availability
+Please note that the code for this project cannot be shared due to privacy and confidentiality issues. However, the methodology and results are presented here to demonstrate the project's impact and effectiveness.
